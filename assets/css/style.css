@@ -1,0 +1,67 @@
+
+body{
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+.app{
+    padding: 25px;
+    font-family: cairo;
+    text-shadow:10px 10px 15px red;
+    color:#F2f2F2;
+}
+.container{
+	width:70%;
+	height:400px;
+    background-color: #f2f2f2;
+    margin:auto;
+    box-shadow: 0 0 10px gray;
+}
+
+.container .app-title{
+    padding: 30px;
+    margin-left: 20px;
+    font-family: Cairo;
+    text-align: center;
+    text-shadow: 0 0 10px gray;
+    color: darkred
+}
+.container .task{
+  margin-left: 25%;
+  width: 450px;
+  height: 37px;
+  font-family: cairo;
+  text-align-last: center;
+  border: none;
+  box-shadow: 0 0 10px gray  
+}
+
+.container .btn{
+
+    height: 39px;
+    margin-left: 3px;
+    width: 100px;
+    font-family: cairo;
+    border: none;
+    background-color:blue;
+    color:#f1f1f1;
+    box-shadow: 0 0 10px gray  
+}
+.container .ul-task{
+    margin-left: 75px;
+    padding: 30px;
+    font-family: cairo;
+    color:sienna
+}
+td{
+    height: 40px;
+    border-bottom: 1px solid aquamarine;
+}
+.trhover1:hover{
+    background-color:lightgrey;
+}
+.op{
+    font-size: x-small;
+}
+
+
